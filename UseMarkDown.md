@@ -28,6 +28,10 @@ _This text is also italicized_
 print("Quoting code")
 ```
 
+`A better way to show code inline?`
+
+Add &nbsp; space &nbsp; between words
+
 Here is an inline [link](https://github.com/SCWinter259/Essentials_Github_andBeyond.git) to this Github repo
 <!-- To insert an image --->
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
