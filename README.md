@@ -5,5 +5,6 @@ I'm also writing down how to make and use markdown files and stuff. Anyways, not
 am not sure about all of the contents included.
 
 ## Current contents
-- **_UseMarkDown.md_**: Basic markdown syntax for .md files
-- **_Git_Github_procedure_**: Basic procedure for using git and github
+- ***UseMarkDown.md***: Basic markdown syntax for .md files
+- ***Git_Github_procedure***: Basic procedure for using git and github
+- ***Cool_git***: Some other git/github commands that I think are cool
