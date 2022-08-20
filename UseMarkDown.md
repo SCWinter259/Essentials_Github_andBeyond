@@ -28,6 +28,10 @@ _This text is also italicized_
 print("Quoting code")
 ```
 
+```python
+print("Quoting code with syntax highlighting")
+```
+
 `A better way to show code inline?`
 
 Add &nbsp; space &nbsp; between words
