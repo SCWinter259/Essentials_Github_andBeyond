@@ -8,3 +8,5 @@ am not sure about all of the contents included.
 - ***UseMarkDown.md***: Basic markdown syntax for .md files
 - ***Git_Github_procedure***: Basic procedure for using git and github
 - ***Cool_git***: Some other git/github commands that I think are cool
+- ***BashCommands***: Basic commands for using Linux
+- ***MakeFileLines***: How to write a makefile, basic and a bit advanced
