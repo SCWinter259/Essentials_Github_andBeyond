@@ -42,6 +42,12 @@ You can merge the changes you made to the main branch (although I encourage pull
 
 `git merge`
 
+Since merge can make your history looks dirty, organizations like to use rebase. The procedure would be:
+
+`git checkout [using branch]`
+
+`git rebase main` (if in a team, there should be a develop branch to rebase instead)
+
 After that, you may delete your work branch (you can leave it there if you want to continue working on the project)
 
 `git branch -d [branch name]` &nbsp; (you may use capital D instead of d to force delete without the need to merge)
