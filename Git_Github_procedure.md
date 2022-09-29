@@ -38,6 +38,12 @@ Now checkout to main branch and push your work branch to github
 
 ## Others
 
+You have a folder, and you want to turn it into a git repo, then make it a remote repo on Github?
+
+`git init`
+
+`git remote add origin <URL>`
+
 You can merge the changes you made to the main branch (although I encourage pulling from remote main branch)
 
 `git merge`
