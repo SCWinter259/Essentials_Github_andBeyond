@@ -10,3 +10,4 @@ am not sure about all of the contents included.
 - ***Cool_git***: Some other git/github commands that I think are cool
 - ***BashCommands***: Basic commands for using Linux
 - ***MakeFileLines***: How to write a makefile, basic and a bit advanced
+- ***BashScript***: How to write a bash script

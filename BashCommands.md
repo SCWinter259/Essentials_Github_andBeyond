@@ -44,3 +44,6 @@
 ## Getting Help
 - `man`: manual
 - `ls --help`
+
+## Other Interesting Commands
+- `date`: gives you the date
