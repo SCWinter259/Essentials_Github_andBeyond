@@ -27,7 +27,7 @@ docker ps -a
 Build a container (this command already tagged the container):
 
 ```sh
-docker build -t <user_name>/<container_name>:<tag> <location>
+docker build -t <container_name>:<tag> <location>
 
 # example
 docker build -t scwinter/peakcv-server:1.0 .
